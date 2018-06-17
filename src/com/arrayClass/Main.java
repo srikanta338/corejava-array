@@ -7,6 +7,7 @@ public class Main {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		System.out.println("get started..");
 		int ar[] = {4, 6, 1, 8, 3, 9, 7, 4, 2};
 		//to print element in one line
 		System.out.println(Arrays.toString(ar));//[4, 6, 1, 8, 3, 9, 7, 4, 2]
